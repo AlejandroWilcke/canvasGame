@@ -4,6 +4,13 @@ body{
 
 canvas{
   position: absolute;
-  width: 1000px;
-  height: 500px;
+  cursor: none;
+  left: 26%;
+  top: 17%;
+  border: 1px solid white;
+  border-radius: 2%;
+}
+
+img{
+  display: none;
 }
